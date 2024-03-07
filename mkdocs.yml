@@ -1,0 +1,7 @@
+site_name: 'Microservices Demo Frontend'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core

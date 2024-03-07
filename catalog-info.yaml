@@ -4,6 +4,7 @@ metadata:
   name: ms-demo-frontend
   annotations:
     github.com/project-slug: dillon-courts/ms-demo-frontend
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
