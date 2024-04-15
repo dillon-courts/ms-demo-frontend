@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: ms-demo-frontend
   annotations:
+    backstage.io/kubernetes-id: test-k8s-component
     github.com/project-slug: dillon-courts/ms-demo-frontend
     backstage.io/techdocs-ref: dir:.
 spec:
