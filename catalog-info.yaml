@@ -10,3 +10,4 @@ spec:
   type: service
   lifecycle: unknown
   owner: cool-kids
+  system: ms-demo
